@@ -16,5 +16,11 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
 
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/frank bank.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/frank bank.png"
+
 flutter:
   uses-material-design: true
